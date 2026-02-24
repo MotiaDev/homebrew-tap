@@ -5,12 +5,12 @@ class MotiaCli < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/MotiaDev/motia-cli/releases/download/v0.1.0/motia-cli-aarch64-apple-darwin.tar.gz"
-      sha256 "c4016c254812ac278b3a3e813761f319d1b57ab334a8b84633f625f525c43949"
+      url "https://github.com/MotiaDev/motia-cli/releases/download/v0.2.0/motia-cli-aarch64-apple-darwin.tar.gz"
+      sha256 "086161534711217c36b65872b03b95d36143a7e4e6d4529311c97a541be1b700"
     end
     on_intel do
-      url "https://github.com/MotiaDev/motia-cli/releases/download/v0.1.0/motia-cli-x86_64-apple-darwin.tar.gz"
-      sha256 "024c2ce8e85c29259bee03e2fe9492329b40fcc3135584577f6182f7cf00f901"
+      url "https://github.com/MotiaDev/motia-cli/releases/download/v0.2.0/motia-cli-x86_64-apple-darwin.tar.gz"
+      sha256 "a72662495e06911d66d3e20c3b905c020e703dce9d3dc29077a5adfd79b2562f"
     end
   end
 
